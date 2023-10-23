@@ -7,7 +7,7 @@ Termux Git and Build Process:
 pkg update -y
 pkg upgrade -y
 pkg install openssl libjansson automake build-essential clang lld curl git binutils
-git clone https://github.com/marx1001/CCminer-ARM-Termux.git
+git clone https://github.com/Marx1001/CCminer-ARM-Termux.git
 cp /data/data/com.termux/files/usr/include/linux/sysctl.h /data/data/com.termux/files/usr/include/sys
 cd CCminer-ARM-Termux
 chmod +x build.sh
