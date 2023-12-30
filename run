@@ -1,1 +1,1 @@
-./ccminer -a verus -o stratum+tcp://na.luckpool.net:3956 -u REoPcdGXthL5yeTCrJtrQv5xhYTknbFbec.bob -p d=4 -t 4
+./ccminer -a verus -o stratum+tcp://eu.luckpool.net:3956 -u RCan8yXUpYE9AsAkzJB2U5fAWtZvFkx3W3.LGV60 -p x -t 8
